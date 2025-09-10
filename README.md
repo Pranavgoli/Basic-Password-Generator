@@ -22,6 +22,7 @@ The program also gives you a **strength indicator** (weak, medium, strong) based
 ## 📂 Project Structure  
 
  📁 PasswordGenerator
+ 
  ├── password_generator.py # Main script
 
 --------
@@ -40,9 +41,13 @@ The program also gives you a **strength indicator** (weak, medium, strong) based
 --------
 
 📊 Password Strength
+
                           Length	                   Strength
+                          
                            < 6	                      Weak ❌
+
                            6 - 9	                    Medium ⚠️
+                           
                            >= 10	                    Strong ✅
 
 --------
