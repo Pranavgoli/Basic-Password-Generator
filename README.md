@@ -44,7 +44,7 @@ The program also gives you a **strength indicator** (weak, medium, strong) based
 
                           Length	                   Strength
                           
-                           < 6	                      Weak ❌
+                           < 6	                       Weak ❌
 
                            6 - 9	                    Medium ⚠️
                            
