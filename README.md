@@ -1,29 +1,31 @@
 # 🔐 Random Password Generator  
 
-A Python-based **Password Generator** that creates secure, random passwords with customizable length and count.  
-The program also gives you a **strength indicator** (weak, medium, strong) based on the chosen password length.  
+A **Python-based Password Generator** that creates secure, random passwords with customizable length and count.  
+The program also includes a **strength indicator** (weak, medium, strong) based on the chosen password length.  
 
 -------
 
 ## ✨ Features  
 
-- 🎲 **Random Password Generation** using Python's `random` module.  
-- 🔡 Supports **letters (A–Z, a–z)**, **digits (0–9)**, and **special characters (!@#$%^& etc.)**.  
-- 📏 Choose the **length** of your password.  
-- 🔢 Generate **multiple passwords at once**.  
+- 🎲 **Random Password Generation** using Python's `random` module  
+- 🔡 Supports **letters (A–Z, a–z), digits (0–9), and special characters (!@#$%^& etc.)**  
+- 📏 Choose the **length** of your password  
+- 🔢 Generate **multiple passwords at once**  
 - 🛡️ **Password Strength Check**:  
-  - Weak → Less than 6 characters.  
-  - Medium → Between 6 and 9 characters.  
-  - Strong → 10 or more characters.  
-- ⚠️ Warns against generating more than 10 passwords at once (security tip).  
+  - Weak → Less than 6 characters  
+  - Medium → Between 6 and 9 characters  
+  - Strong → 10 or more characters  
+- ⚠️ Warns against generating more than **10 passwords at once** (security tip) 
 
 -------
 
 ## 📂 Project Structure  
 
- 📁 PasswordGenerator
- 
- ├── password_generator.py # Main script
+📁 PasswordGenerator
+
+├── password_generator.py   # Main script
+
+└── README.md               # Documentation
 
 --------
 
@@ -56,6 +58,8 @@ The program also gives you a **strength indicator** (weak, medium, strong) based
 
 Add option to exclude/include special characters.
 
-Add option to copy generated password(s) directly to clipboard.
+--------
 
-Add a GUI interface for easier usage.
+📜 License
+
+This project is released under the MIT License.
