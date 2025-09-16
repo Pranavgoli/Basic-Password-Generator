@@ -1,6 +1,6 @@
 # 🔐 Random Password Generator  
 
-A simple Python-based **Password Generator** that creates secure, random passwords with customizable length and count.  
+A Python-based **Password Generator** that creates secure, random passwords with customizable length and count.  
 The program also gives you a **strength indicator** (weak, medium, strong) based on the chosen password length.  
 
 -------
